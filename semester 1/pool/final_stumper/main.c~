@@ -1,0 +1,15 @@
+/*
+** EPITECH PROJECT, 2024
+** main
+** File description:
+** main file
+*/
+
+#include "include/my.h"
+
+void main(void)
+{
+    char *square = "ABBA\nB  B\nB  B\nABBA\0";
+
+    square3_analysis(square);
+}
